@@ -591,15 +591,3 @@ video {
           text-decoration: underline red solid 3px;
   text-underline-offset: 18px;
 }
-
-.hover\:underline:hover {
-  text-decoration-line: underline;
-}
-
-.hover\:decoration-red-600:hover {
-  text-decoration-color: #dc2626;
-}
-
-.hover\:underline-offset-8:hover {
-  text-underline-offset: 8px;
-}
