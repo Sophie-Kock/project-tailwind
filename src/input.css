@@ -7,3 +7,24 @@
     text-decoration: underline red solid 3px;
     text-underline-offset: 18px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer */
+
+.sideborder{
+    border-right: solid #a3a3a3 1px;
+    padding-right: 1rem;
+}
