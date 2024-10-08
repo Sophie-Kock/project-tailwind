@@ -8,3 +8,7 @@
     text-underline-offset: 18px;
 }
 
+.backgroundimage {
+    background-image: url(../image/nasa.jpg);
+    background-size: cover;
+}

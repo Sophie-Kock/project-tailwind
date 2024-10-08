@@ -567,20 +567,12 @@ video {
   height: 1.5rem;
 }
 
-.w-8 {
-  width: 2rem;
-}
-
 .w-6 {
   width: 1.5rem;
 }
 
-.w-5 {
-  width: 1.25rem;
-}
-
-.w-7 {
-  width: 1.75rem;
+.w-8 {
+  width: 2rem;
 }
 
 .gap-5 {
@@ -592,11 +584,6 @@ video {
   background-color: rgb(0 0 0 / var(--tw-bg-opacity));
 }
 
-.bg-slate-600 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(71 85 105 / var(--tw-bg-opacity));
-}
-
 .py-4 {
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -606,14 +593,14 @@ video {
   padding-left: 2.5rem;
 }
 
-.text-white {
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
-}
-
 .text-red-700 {
   --tw-text-opacity: 1;
   color: rgb(185 28 28 / var(--tw-text-opacity));
+}
+
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
 .headerhover:hover{
@@ -622,3 +609,7 @@ video {
   text-underline-offset: 18px;
 }
 
+.backgroundimage {
+  background-image: url(../image/nasa.jpg);
+  background-size: cover;
+}
