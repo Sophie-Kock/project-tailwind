@@ -593,11 +593,6 @@ video {
   padding-left: 2.5rem;
 }
 
-.text-red-700 {
-  --tw-text-opacity: 1;
-  color: rgb(185 28 28 / var(--tw-text-opacity));
-}
-
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
@@ -612,4 +607,6 @@ video {
 .backgroundimage {
   background-image: url(../image/nasa.jpg);
   background-size: cover;
+  background-repeat: no-repeat;
 }
+

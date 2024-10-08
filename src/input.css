@@ -11,4 +11,6 @@
 .backgroundimage {
     background-image: url(../image/nasa.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
 }
+
