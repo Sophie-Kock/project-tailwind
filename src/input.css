@@ -8,20 +8,11 @@
     text-underline-offset: 18px;
 }
 
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
-
-
-
+body {
+    background-image: url(../image/nasa.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
 /* footer */
 
@@ -29,11 +20,3 @@
     border-right: solid #a3a3a3 1px;
     padding-right: 1rem;
 }
-=======
-body {
-    background-image: url(../image/nasa.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
->>>>>>> 2-feat-main
