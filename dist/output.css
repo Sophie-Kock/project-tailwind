@@ -631,10 +631,10 @@ video {
 .justify-between {
   justify-content: space-between;
 
+}
   .gap-5 {
     gap: 1.25rem;
   }
-}
 .border-r {
   border-right-width: 1px;
 }
@@ -646,11 +646,12 @@ video {
 .border-neutral-400 {
   --tw-border-opacity: 1;
   border-color: rgb(163 163 163 / var(--tw-border-opacity));
+}
   .gap-8 {
     gap: 2rem;
   }
-}
 
+  
 .bg-black {
   --tw-bg-opacity: 1;
   background-color: rgb(0 0 0 / var(--tw-bg-opacity));
